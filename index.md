@@ -1,3 +1,3 @@
 ---
-title: This is my new blogc!
+title: This is my new blog!
 ---
